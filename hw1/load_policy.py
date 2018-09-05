@@ -64,7 +64,7 @@ def load_policy(filename):
         '''
         obs = obs.astype(np.float32)
         normed_obs = (obs - obsnorm_mean) / (obsnorm_stdev + 1e-6) # 1e-6 constant from Standardizer class in nn.py:409 in openai/imitation
-        output = layers_forward(normed_obs)
+        output = layers_forward(normed_obs.astype(np.float32))
 
         return output
 
