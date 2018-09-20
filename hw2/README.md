@@ -4,7 +4,7 @@ Modification:
 
 In general, we followed the code structure of the original version and modified the neural network part to pytorch. 
 
-Because of the different between the static graphs framework and the dynamic graphs framework, we merged and added some code in `train_pg_f18.py`. We also adapted the instructions of this assignment for pytorch. (Thanks to CS294-112 for offering $\LaTeX$ code for the instructions) And you can just follow the pytorch version instructions we wrote.
+Because of the different between the static graphs framework and the dynamic graphs framework, we merged and added some code in `train_pg_f18.py`. We also adapted the instructions of this assignment for pytorch. (Thanks to CS294-112 for offering ![equation](http://latex.codecogs.com/gif.latex?\LaTeX) code for the instructions) And you can just follow the pytorch version instructions we wrote.
 
 ------
 
