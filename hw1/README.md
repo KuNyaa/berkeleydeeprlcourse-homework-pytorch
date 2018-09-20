@@ -1,6 +1,13 @@
 # CS294-112 HW 1: Imitation Learning
 
+Modification:
+
+We implemented the forward pass of the expert policy network in numpy, and you can use any deep learning framework you like to write this assignment. 
+
+------
+
 Dependencies:
+
  * Python **3.5**
  * Numpy
  * MuJoCo version **1.50** and mujoco-py **1.50.1.56**
@@ -24,3 +31,7 @@ In `experts/`, the provided expert policies are:
 * Walker2d-v2.pkl
 
 The name of the pickle file corresponds to the name of the gym environment.
+
+
+
+See the [HW1 PDF](./hw1_instructions.pdf) for further instructions.
