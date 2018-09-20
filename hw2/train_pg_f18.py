@@ -42,7 +42,11 @@ def build_mlp(input_size, output_size, n_layers, hidden_size, activation=nn.Tanh
     layers = []
     # YOUR CODE HERE
     raise NotImplementedError
-    return nn.Sequential(*layers)
+    return nn.Sequential(*layers).apply(weights_init)
+
+def weights_init(m):
+    if hasattr(m, 'weight'):
+        torch.nn.init.xavier_uniform_(m.weight) 
 
 def pathlength(path):
     return len(path["reward"])
