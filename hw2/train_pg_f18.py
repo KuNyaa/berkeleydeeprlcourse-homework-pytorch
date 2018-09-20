@@ -2,7 +2,7 @@
 Original code from John Schulman for CS294 Deep Reinforcement Learning Spring 2017
 Adapted for CS294-112 Fall 2017 by Abhishek Gupta and Joshua Achiam
 Adapted for CS294-112 Fall 2018 by Michael Chang and Soroush Nasiriany
-Modified to pytorch version by Ning Dai
+Adapted for pytorch version by Ning Dai
 """
 import numpy as np
 import torch
