@@ -1,4 +1,6 @@
 # Berkeley DeepRLcourse Homework in Pytorch
+## Introduction
+
 In recent years, with the booming of deep learning, reinforcement learning has made great progress in solving real life tasks and has attracted more and more people`s attention. Also, many researchers start applying reinforcement learning algorithms to solve the problem in other fields (such as Natural Language Processing).
 
 So, there is a big need for learning those classic reinforcement learning algorithms in an easy way.
@@ -13,3 +15,30 @@ Moreover, we also wrote [solutions](https://github.com/KuNyaa/berkeleydeeprlcour
 
 Hope you can enjoy it : )
 
+
+
+## What can you learn from it?
+
+- ### HW1: Imitation Learning
+
+  In this assignment, you will implement **Behavioral Cloning** and **DAgger** algorithm. 
+
+  In the experiments, you will see the case where Behavioral Cloning work well, and the case where DAgger can learn a better policy than Behavioral Cloning.
+
+- ### HW2: Policy Gradients
+
+  In this assignment, you will implement **Policy Gradients** algorithm.
+
+  In the experiments, you will compare the difference between gradient estimators(full-trajectory case and reward-to-go case) and learn how batch size and learning rate can affect the algorithm performance. Moreover, you will implement a **neural network baseline** to help the gradient estimator to reduce variance and assist the agent to learn a better policy.
+
+- ### HW3: Q-Learning and Actor-Critic
+
+  ###### Coming Soon......
+
+- ### HW4: Model-Based RL
+
+  ###### Coming Soon......
+
+- ### HW5: Advanced Topics
+
+  ###### Coming Soon......
