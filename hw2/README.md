@@ -1,6 +1,15 @@
 # CS294-112 HW 2: Policy Gradient
 
+Modification:
+
+In general, we followed the code structure of the original version and modified the neural network part to pytorch. 
+
+Because of the different between the static graphs framework and the dynamic graphs framework, we merged and added some code in `train_pg_f18.py`. We also adapted the instructions of this assignment for pytorch. (Thanks to CS294-112 for offering $\LaTeX$ code for the instructions) And you can just follow the pytorch version instructions we wrote.
+
+------
+
 Dependencies:
+
  * Python **3.5**
  * Numpy version **1.14.5**
  * Pytorch version **0.4.0**
