@@ -1,7 +1,7 @@
 # Berkeley DeepRLcourse Homework in Pytorch
 ## Introduction
 
-In recent years, with the booming of deep learning, reinforcement learning has made great progress in solving real life tasks and has attracted more and more people`s attention. Also, many researchers start applying reinforcement learning algorithms to solve the problem in other fields (such as Natural Language Processing).
+In recent years, with the booming of deep learning, reinforcement learning has made great progress in solving complex tasks and has attracted more and more people`s attention. Also, many researchers start applying reinforcement learning algorithms to solve the problem in other fields (such as Natural Language Processing).
 
 So, there is a big need for learning those classic reinforcement learning algorithms in an easy way.
 
