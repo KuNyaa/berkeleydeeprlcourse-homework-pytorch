@@ -11,7 +11,7 @@ As the saying goes, “talk is cheap, show me your code.” It is very important
 
 For the reasons above, we modified those assignments (for Fall 2018) and implemented in **Pytorch**, which is a framework that we often use in our research. 
 
-Moreover, we also wrote [solutions](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch-solution) to these assignments, and you can use them when you get stuck.
+Moreover, we also provide [solutions](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch-solution) to these assignments, and you can use them when you get stuck.
 
 Hope you can enjoy it : )
 
