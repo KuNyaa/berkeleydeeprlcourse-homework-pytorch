@@ -13,7 +13,7 @@ For the reasons above, we modified those assignments (for Fall 2018) and impleme
 
 Moreover, we also provide [solutions](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch-solution) to these assignments, and you can use them when you get stuck.
 
-Hope you can enjoy it : )
+Hope you will enjoy it : )
 
 
 
