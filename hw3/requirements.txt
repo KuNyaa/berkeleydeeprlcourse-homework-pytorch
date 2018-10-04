@@ -1,0 +1,8 @@
+gym==0.10.5
+gym[atari]
+box2d
+mujoco-py==1.50.1.56
+torch==0.4.0
+numpy
+seaborn
+opencv-python
