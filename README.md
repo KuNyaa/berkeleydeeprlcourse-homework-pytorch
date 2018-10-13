@@ -1,4 +1,4 @@
-# Berkeley DeepRLcourse Homework in Pytorch
+# Berkeley DeepRLcourse Homework in PyTorch
 ## Introduction
 
 In recent years, with the booming of deep learning, reinforcement learning has made great progress in solving complex tasks and has attracted more and more people`s attention. Also, many researchers start applying reinforcement learning algorithms to solve the problem in other fields (such as Natural Language Processing).
