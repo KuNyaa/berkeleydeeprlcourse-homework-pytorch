@@ -9,7 +9,7 @@ As beginners in reinforcement learning, we found that [CS 294-112](http://rail.e
 
 As the saying goes, “talk is cheap, show me your code.” It is very important to write algorithm in code correctly, instead of just knowing the algorithm. Luckily, CS 294-112 also provides programming assignments for those reinforcement learning algorithms. While, these assignments are mainly implemented in **TensorFlow**, which might be bad news for people who are more familiar with other deep learning frameworks.
 
-For the reasons above, we modified those assignments (for Fall 2018) and implemented in **Pytorch**, which is a framework that we often use in our research. 
+For the reasons above, we modified those assignments (for Fall 2018) and implemented in **PyTorch**, which is a framework that we often use in our research. 
 
 Moreover, we also provide [solutions](https://github.com/KuNyaa/berkeleydeeprlcourse-homework-pytorch-solution) to these assignments, and you can use them when you get stuck.
 
